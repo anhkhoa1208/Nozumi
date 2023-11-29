@@ -1,1 +1,2 @@
-# nozumi
+# NOZUMI
+https://nozumi.net/
